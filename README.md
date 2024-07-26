@@ -3,6 +3,7 @@
 
 Examples are ordered by difficulty
 
+ * blinky (runs only without Wifi)
  * led_loop
  * led_delay
  * button
@@ -12,5 +13,11 @@ Examples are ordered by difficulty
  * pio-demo
 
 
-TODOs:
+Examples in work:
  * todo_configure 
+
+To generate a new example:
+
+```sh
+cargo generate https://github.com/datenzauberer/rp2040-project-template
+```
