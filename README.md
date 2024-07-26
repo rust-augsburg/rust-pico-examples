@@ -4,6 +4,7 @@
 Examples are ordered by difficulty
 
  * blinky (runs only without Wifi)
+ * embassy/blinkyw (runs blinky on Wifi)
  * led_loop
  * led_delay
  * button
@@ -11,7 +12,6 @@ Examples are ordered by difficulty
  * adc_temperature_sensor
  * adc_potentiometer
  * pio-demo
-
 
 Examples in work:
  * todo_configure 
